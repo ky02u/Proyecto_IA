@@ -1,4 +1,4 @@
-# Determinación del estadío de la enfermedad de Alzheimer a través de imagenología MRI
+# ProyectAl
 
 ![bannerfinal](https://user-images.githubusercontent.com/73614233/156931688-00cb3cb6-185d-43cb-a583-589f7a3aae59.png)
 
