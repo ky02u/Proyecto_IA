@@ -4,7 +4,9 @@
 
 #### Autores: Daniel Eduardo Ortiz Celis 2171469, Camilo Eduardo González Guerrero 2180065
 
-### Objetivo: 
+### Objetivo:
+Determinación del estadío de la enfermedad de Alzheimer a través de imagenología MRI: 
+Herramienta para la detección de estadío de la enfermedad de Alzheimer a través de imagenología MRI. Se desarrolla con el fin de servir de guía o para correlación por parte del profesional de Neurología. Está enfocado para ser un problema Supervisado con fines de clasificación Multiclases(Estadíos de la Enfermedad)
 
 ### Dataset: 
 El link del dataset que usamos es el siguiente: https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images
