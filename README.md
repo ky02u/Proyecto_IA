@@ -25,3 +25,6 @@ Hay que aclarar que el dataset que usamos fue creado a apartir de las imagenes d
 
 ### Video:
 El link del video es el siguiente: https://www.youtube.com/watch?v=SguUOUBv6LE
+
+### Codigo y repositorio:
+El link del repositorio con el notebook es el siguiente: https://github.com/ky02u/Proyecto_IA
