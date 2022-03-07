@@ -1,6 +1,6 @@
 # ProyectAl
+![banner_final](https://user-images.githubusercontent.com/73614233/156952723-32c7b6b8-896b-4ffc-8c9a-28442b856aa1.png)
 
-![bannerfinal](https://user-images.githubusercontent.com/73614233/156931688-00cb3cb6-185d-43cb-a583-589f7a3aae59.png)
 
 #### Autores: Daniel Eduardo Ortiz Celis 2171469, Camilo Eduardo González Guerrero 2180065
 
