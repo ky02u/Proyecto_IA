@@ -23,3 +23,5 @@ Hay que aclarar que el dataset que usamos fue creado a apartir de las imagenes d
 ### Librerias:
 * Numpy, Pandas, Sklearn, Tensorflow, Keras, Matplotlib, Seaborn y Scipy
 
+### Video:
+El link del video es el siguiente: https://www.youtube.com/watch?v=SguUOUBv6LE
